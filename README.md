@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Spadille1337
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Red Teaming, WAPT.
+- 🌱 I’m currently learning Java, reading Cyber Security Books and practicing CTF problems.
+- 💞️ I’m looking to collaborate on real life working projects.
+- 📫 How to reach me: priya.sharma2019@vitbhopal.ac.in  
 
-<!---
-Spadille1337/Spadille1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
